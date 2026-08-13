@@ -7,7 +7,7 @@
 Co-founded a DeFi protocol, scaled it to **$150M peak AUM**, and sold it to **Movement Labs**.
 Now going deep on engineering.
 
-<sub>Open to software engineering roles &nbsp;·&nbsp; crypto or AI/big tech</sub>
+<sub>Open to software engineering roles</sub>
 
 </div>
 
