@@ -4,7 +4,7 @@
 
 **Computer Science, Vanderbilt — Class of 2026**
 
-Co-founded a DeFi protocol, scaled it to **$150M peak AUM**, and sold it to **Movement Labs**.<br/>
+Co-founded a DeFi protocol, scaled it to $150M peak AUM, and sold it to Movement Labs.<br/>
 Now going deep on engineering.
 
 <p>
@@ -19,11 +19,11 @@ Now going deep on engineering.
 
 ## About
 
-I co-founded **Canopy** as CEO while studying Computer Science at Vanderbilt. Over 23 months we raised a **$1.2M pre-seed** led by Mechanism Capital and CitizenX, built a vault layer on Movement Network, scaled to **$150M in peak assets under management** across **3,800+ users**, and were **acquired by Movement Labs in May 2026**. Before Canopy I was on the founding team at **Movement Labs** itself, from inception through a $3.4M pre-seed and a $38M Series A — the same company that went on to buy us.
+I co-founded Canopy as CEO while studying Computer Science at Vanderbilt. Over 23 months we raised a $1.2M pre-seed led by Mechanism Capital and CitizenX, built a vault layer on Movement Network, scaled to $150M in peak assets under management across 3,800+ users, and were acquired by Movement Labs in May 2026.
 
-My work has been on the commercial side: fundraising, go-to-market, business development, and partner integrations. That put me next to engineering for four years without being in it. I have the CS foundation, and I know what it costs to ship something real under pressure — what I want now is technical depth.
+My work has been on the commercial side: fundraising, go-to-market, business development, and partner integrations. That put me next to engineering for four years without being in it, what I want now is technical depth.
 
-**I'm looking to embed on an engineering team and build it.** I'm working toward that deliberately rather than waiting on it — building projects on my own, writing the logic myself, and closing the gap in the time I have.
+I'm looking to join an engineering team. I'm working toward that by building projects which I will progress track on this page.
 
 ---
 
@@ -91,7 +91,7 @@ Contract work across four service lines: treasury activation for protocols sitti
 
 **Business development, contract** &nbsp;·&nbsp; Uniswap V4 hook protocol
 
-Sourced initial partnerships for **AEGIS Engine**, a hook architecture bringing margin to Uniswap. Early-stage BD for unproven infrastructure: no track record to sell, no comparable to point at, so every conversation ran on the mechanism itself — which meant learning the hook design well enough to defend it to skeptical counterparties.
+Sourced initial partnerships for AEGIS Engine, a hook architecture bringing margin to Uniswap. Early-stage BD for unproven infrastructure: no track record to sell, no comparable to point at, so every conversation ran on the mechanism itself which meant learning the hook design well enough to defend it to skeptical counterparties.
 
 <sub>↗ [Live pools](https://aegis.markets/pools) &nbsp;·&nbsp; [DefiLlama](https://defillama.com/protocol/aegis-markets)</sub>
 
