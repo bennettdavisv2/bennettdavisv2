@@ -2,7 +2,7 @@
 
 # Bennett Davis
 
-**Computer Science, [Vanderbilt](https://www.vanderbilt.edu/) — Class of 2026**
+**Computer Science, Vanderbilt — Class of 2026**
 
 Co-founded a DeFi protocol, scaled it to **$150M peak AUM**, and sold it to **Movement Labs**.<br/>
 Now going deep on engineering.
@@ -49,15 +49,15 @@ A vault layer on Movement Network that let users route capital into on-chain yie
 
 I ran fundraising, go-to-market, and BD — including the MovePosition integration that made Canopy load-bearing for the network's credit stack. That integration is what made us worth buying: in [May 2026 Movement acquired Canopy](https://www.binance.com/en/square/post/05-12-2026-movement-completes-acquisition-of-canopy-to-enhance-network-infrastructure-322388875851953), taking the contracts in-house to fold the vault layer into core infrastructure.
 
-<sub>↗ [canopyhub.xyz](https://app.canopyhub.xyz) &nbsp;·&nbsp; [DefiLlama](https://defillama.com/protocol/canopy)</sub>
+<sub>↗ [DefiLlama](https://defillama.com/protocol/canopy)</sub>
 
 <br/>
 
 <a href="https://movementlabs.xyz">
-  <img src="movement-logo.png" height="34" alt="Movement Labs" valign="middle"/>
-</a> &nbsp; **[Movement Labs](https://movementlabs.xyz)**
+  <img src="movement-logo.png" height="34" alt="Movement Labs"/>
+</a>
 
-**Founding team** &nbsp;·&nbsp; Move-based L2
+**Movement Labs** &nbsp;·&nbsp; Founding team &nbsp;·&nbsp; Move-based L2
 
 <p>
   <img src="https://img.shields.io/badge/Pre--seed-%243.4M-2da44e?style=flat-square&labelColor=3d444d" alt="$3.4M pre-seed"/>
@@ -79,8 +79,6 @@ Joined at inception and worked through both institutional rounds, taking a Move-
 **Growth &amp; BD, contract** &nbsp;·&nbsp; DeFi market-making and liquidity infrastructure
 
 Contract work across four service lines: treasury activation for protocols sitting on idle reserves, DEX market making on v3/v4 venues, vault strategy across lending and structured products, and launch-day liquidity for token generation events.
-
-<sub>↗ [amplifiliquidity.com](https://www.amplifiliquidity.com/)</sub>
 
 <br/>
 
@@ -131,9 +129,3 @@ Coursework in machine learning, computer security, networking, and distributed s
 **Engineering** — Python, SQL, testing and TDD, concurrency, distributed systems, RAG and agent architectures, gradient boosting and model explainability.
 
 **Domain** — DeFi infrastructure, AMM mechanics (v3 concentrated liquidity, v4 hooks), market making, liquidity management, tokenomics and TGE design.
-
----
-
-<div align="center">
-<sub><a href="mailto:bennett0730@gmail.com">bennett0730@gmail.com</a></sub>
-</div>
