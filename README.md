@@ -117,6 +117,8 @@ Sourced initial partnerships for **AEGIS Engine**, a hook architecture bringing 
 
 **[NASA × Vanderbilt](https://engineering.vanderbilt.edu/2024/04/16/vanderbilt-researchers-part-of-nasas-effort-to-protect-airspace-against-cyberattacks-improve-aircraft-operations/)** — part of a Vanderbilt team on NASA's University Leadership Initiative, a $6M three-year award to protect urban airspace against cyberattacks across Advanced Air Mobility and UAS traffic management. My work: a proof-of-stake consensus mechanism on Hedera Hashgraph for approving drone flight plans among untrusted participants.
 
+<sub>Code: [drone-consensus-blockchain](https://github.com/bennettdavisv2/drone-consensus-blockchain)</sub>
+
 ---
 
 ## Education
