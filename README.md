@@ -4,12 +4,12 @@
 
 **Computer Science, Vanderbilt — Class of 2026**
 
-Co-founded a DeFi protocol, scaled it to $150M peak AUM, and sold it to Movement Labs.<br/>
+Founded a DeFi protocol, scaled it to $150M peak AUM, and sold it to Movement Labs.<br/>
 Now going deep on engineering.
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20roles-2da44e?style=flat-square&labelColor=3d444d" alt="Open to software engineering roles"/>
-  <img src="https://img.shields.io/badge/Based%20in-Daytona%20Beach,%20FL-6e7781?style=flat-square&labelColor=3d444d" alt="Daytona Beach, FL"/>
+  <img src="https://img.shields.io/badge/Based%20in-United%20States-6e7781?style=flat-square&labelColor=3d444d" alt="United States"/>
   <a href="mailto:bennett0730@gmail.com"><img src="https://img.shields.io/badge/Email-bennett0730@gmail.com-6e7781?style=flat-square&labelColor=3d444d" alt="Email"/></a>
 </p>
 
@@ -19,11 +19,9 @@ Now going deep on engineering.
 
 ## About
 
-I co-founded Canopy as CEO while studying Computer Science at Vanderbilt. Over 23 months we raised a $1.2M pre-seed led by Mechanism Capital and CitizenX, built a vault layer on Movement Network, scaled to $150M in peak assets under management across 3,800+ users, and were acquired by Movement Labs in May 2026.
+I founded Canopy while studying Computer Science at Vanderbilt. Over 23 months we raised a $1.2M pre-seed led by Mechanism Capital and CitizenX, built a vault layer on Movement Network, scaled to $150M in peak assets under management across 3,800+ users, and were acquired by Movement Labs in May 2026.
 
-My work has been on the commercial side: fundraising, go-to-market, business development, and partner integrations. That put me next to engineering for four years without being in it, what I want now is technical depth.
-
-I'm looking to join an engineering team. I'm working toward that by building projects which I will progress track on this page.
+I'm looking to now join an engineering team.
 
 ---
 
@@ -36,7 +34,7 @@ I'm looking to join an engineering team. I'm working toward that by building pro
   </picture>
 </a>
 
-**Co-founder &amp; CEO** &nbsp;·&nbsp; 23 months &nbsp;·&nbsp; acquired by Movement Labs
+**Founder** &nbsp;·&nbsp; 23 months &nbsp;·&nbsp; acquired by Movement Labs
 
 <p>
   <img src="https://img.shields.io/badge/Pre--seed-%241.2M-2da44e?style=flat-square&labelColor=3d444d" alt="$1.2M pre-seed"/>
@@ -45,19 +43,19 @@ I'm looking to join an engineering team. I'm working toward that by building pro
   <img src="https://img.shields.io/badge/Exit-Acquired-2da44e?style=flat-square&labelColor=3d444d" alt="Acquired"/>
 </p>
 
-A vault layer on Movement Network that let users route capital into on-chain yield strategies run by independent managers — a marketplace, not a single vault. Raised a [$1.2M pre-seed](https://finance.yahoo.com/news/canopy-raises-1-2m-build-140000677.html) led by Mechanism Capital and CitizenX, with Primitive, GSR, and Side Door Ventures.
+A vault layer on Movement Network that let users route capital into on-chain yield strategies. Raised a [$1.2M pre-seed](https://finance.yahoo.com/news/canopy-raises-1-2m-build-140000677.html) led by Mechanism Capital and CitizenX, with Primitive, GSR, and Side Door Ventures.
 
-I ran fundraising, go-to-market, and BD — including the MovePosition integration that made Canopy load-bearing for the network's credit stack. That integration is what made us worth buying: in [May 2026 Movement acquired Canopy](https://www.binance.com/en/square/post/05-12-2026-movement-completes-acquisition-of-canopy-to-enhance-network-infrastructure-322388875851953), taking the contracts in-house to fold the vault layer into core infrastructure.
+In [May 2026 Movement acquired Canopy](https://www.binance.com/en/square/post/05-12-2026-movement-completes-acquisition-of-canopy-to-enhance-network-infrastructure-322388875851953), taking our product in-house to fold the vault layer into core infrastructure.
 
 <sub>↗ [DefiLlama](https://defillama.com/protocol/canopy)</sub>
 
 <br/>
 
-<a href="https://movementlabs.xyz">
+<a href="https://www.movementnetwork.xyz/">
   <img src="movement-logo.png" height="34" alt="Movement Labs"/>
 </a>
 
-**Movement Labs** &nbsp;·&nbsp; Founding team &nbsp;·&nbsp; Move-based L2
+**Movement Labs** &nbsp;·&nbsp; Founding team &nbsp;·&nbsp; Move-based Blockchain Network
 
 <p>
   <img src="https://img.shields.io/badge/Pre--seed-%243.4M-2da44e?style=flat-square&labelColor=3d444d" alt="$3.4M pre-seed"/>
@@ -91,7 +89,7 @@ Contract work across four service lines: treasury activation for protocols sitti
 
 **Business development, contract** &nbsp;·&nbsp; Uniswap V4 hook protocol
 
-Sourced initial partnerships for AEGIS Engine, a hook architecture bringing margin to Uniswap. Early-stage BD for unproven infrastructure: no track record to sell, no comparable to point at, so every conversation ran on the mechanism itself which meant learning the hook design well enough to defend it to skeptical counterparties.
+Sourced initial partnerships for AEGIS Engine, a hook architecture bringing margin to Uniswap. 
 
 <sub>↗ [Live pools](https://aegis.markets/pools) &nbsp;·&nbsp; [DefiLlama](https://defillama.com/protocol/aegis-markets)</sub>
 
@@ -101,9 +99,9 @@ Sourced initial partnerships for AEGIS Engine, a hook architecture bringing marg
 
 **[NASA × Vanderbilt](https://engineering.vanderbilt.edu/2024/04/16/vanderbilt-researchers-part-of-nasas-effort-to-protect-airspace-against-cyberattacks-improve-aircraft-operations/)** &nbsp;·&nbsp; University Leadership Initiative
 
-Part of a Vanderbilt team on NASA's $6M three-year award to protect urban airspace against cyberattacks across Advanced Air Mobility and UAS traffic management. My work: a proof-of-stake consensus mechanism on Hedera Hashgraph for approving drone flight plans among untrusted participants.
+Part of a Vanderbilt team on NASA's $6M three-year award to protect urban airspace against cyberattacks across Advanced Air Mobility and UAS traffic management. 
 
-<sub>↗ [drone-consensus-blockchain](https://github.com/bennettdavisv2/drone-consensus-blockchain)</sub>
+My work: a proof-of-stake consensus mechanism on Hedera Hashgraph for approving drone flight plans among untrusted participants.
 
 ---
 
@@ -111,21 +109,4 @@ Part of a Vanderbilt team on NASA's $6M three-year award to protect urban airspa
 
 **[Vanderbilt University](https://www.vanderbilt.edu/)** &nbsp;·&nbsp; B.S. Computer Science &nbsp;·&nbsp; 2022 – 2026
 
-Coursework in machine learning, computer security, networking, and distributed systems. Final project: explainable wash-trading detection on Uniswap V3 using gradient-boosted classification with SHAP attributions.
-
 ---
-
-## Toolkit
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3d444d?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-3d444d?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/scikit--learn-3d444d?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Docker-3d444d?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Ethereum-3d444d?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/Uniswap%20v4-3d444d?style=flat-square&logo=uniswap&logoColor=white" alt="Uniswap v4"/>
-</p>
-
-**Engineering** — Python, SQL, testing and TDD, concurrency, distributed systems, RAG and agent architectures, gradient boosting and model explainability.
-
-**Domain** — DeFi infrastructure, AMM mechanics (v3 concentrated liquidity, v4 hooks), market making, liquidity management, tokenomics and TGE design.
