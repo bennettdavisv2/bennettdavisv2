@@ -2,7 +2,7 @@
 
 # Bennett Davis
 
-**Computer Science, Vanderbilt — Class of 2026**
+**Computer Science, Vanderbilt '26**
 
 Founded a DeFi protocol, scaled it to $150M peak AUM, and sold it to Movement Labs.<br/>
 Now going deep on engineering.
@@ -34,7 +34,7 @@ I'm looking to now join an engineering team.
   </picture>
 </a>
 
-**Founder** &nbsp;·&nbsp; 23 months &nbsp;·&nbsp; acquired by Movement Labs
+**Founder** &nbsp;·&nbsp; October 2024 - May 2026 &nbsp;·&nbsp; acquired by Movement Labs
 
 <p>
   <img src="https://img.shields.io/badge/Pre--seed-%241.2M-2da44e?style=flat-square&labelColor=3d444d" alt="$1.2M pre-seed"/>
@@ -55,14 +55,9 @@ In [May 2026 Movement acquired Canopy](https://www.binance.com/en/square/post/05
   <img src="movement-logo.png" height="34" alt="Movement Labs"/>
 </a>
 
-**Movement Labs** &nbsp;·&nbsp; Founding team &nbsp;·&nbsp; Move-based Blockchain Network
+**Movement Labs** &nbsp;·&nbsp; Founding team ·&nbsp;April 2023 - September 2024 ·&nbsp; Move-based Blockchain Network
 
-<p>
-  <img src="https://img.shields.io/badge/Pre--seed-%243.4M-2da44e?style=flat-square&labelColor=3d444d" alt="$3.4M pre-seed"/>
-  <img src="https://img.shields.io/badge/Series%20A-%2438M-2da44e?style=flat-square&labelColor=3d444d" alt="$38M Series A"/>
-</p>
-
-Joined at inception and worked through both institutional rounds, taking a Move-based L2 from an idea to a funded network with a live ecosystem. Two years later that same network acquired the company I left to start.
+Joined the engineering team at inception, taking a Move-based L2 from an idea to a funded network with a live ecosystem. Two years later that same network acquired the company I left to start.
 
 <br/>
 
@@ -74,7 +69,7 @@ Joined at inception and worked through both institutional rounds, taking a Move-
   <img src="Amplifi.png" height="34" alt="Amplifi Liquidity"/>
 </a>
 
-**Growth &amp; BD, contract** &nbsp;·&nbsp; DeFi market-making and liquidity infrastructure
+**Contract** &nbsp;·&nbsp; DeFi market-making and liquidity infrastructure
 
 Contract work across four service lines: treasury activation for protocols sitting on idle reserves, DEX market making on v3/v4 venues, vault strategy across lending and structured products, and launch-day liquidity for token generation events.
 
@@ -87,7 +82,7 @@ Contract work across four service lines: treasury activation for protocols sitti
   </picture>
 </a>
 
-**Business development, contract** &nbsp;·&nbsp; Uniswap V4 hook protocol
+**Contract** &nbsp;·&nbsp; Uniswap V4 hook protocol
 
 Sourced initial partnerships for AEGIS Engine, a hook architecture bringing margin to Uniswap. 
 
