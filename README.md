@@ -19,7 +19,7 @@ Now going deep on engineering.
 
 ## About
 
-I founded Canopy while studying Computer Science at Vanderbilt. Over 23 months we raised a $1.2M pre-seed led by Mechanism Capital and CitizenX, built a vault layer on Movement Network, scaled to $150M in peak assets under management across 3,800+ users, and were acquired by Movement Labs in May 2026.
+I founded Canopy while studying Computer Science at Vanderbilt, and spent 23 months building a vault layer on Movement Network — scaling it to $150M in peak assets under management across 3,800+ users.
 
 I'm looking to now join an engineering team.
 
@@ -43,15 +43,24 @@ I'm looking to now join an engineering team.
   <img src="https://img.shields.io/badge/Exit-Acquired-2da44e?style=flat-square&labelColor=3d444d" alt="Acquired"/>
 </p>
 
-A vault layer on Movement Network that let users route capital into on-chain yield strategies. Raised a [$1.2M pre-seed](https://finance.yahoo.com/news/canopy-raises-1-2m-build-140000677.html) led by Mechanism Capital and CitizenX, with Primitive, GSR, and Side Door Ventures.
+A vault layer on Movement Network that let users route capital into on-chain yield strategies. The [pre-seed](https://finance.yahoo.com/news/canopy-raises-1-2m-build-140000677.html) was led by Mechanism Capital and CitizenX, with Primitive, GSR, and Side Door Ventures.
 
 In [May 2026 Movement acquired Canopy](https://www.binance.com/en/square/post/05-12-2026-movement-completes-acquisition-of-canopy-to-enhance-network-infrastructure-322388875851953), taking our product in-house to fold the vault layer into core infrastructure.
 
 <sub>↗ [DefiLlama](https://defillama.com/protocol/canopy)</sub>
 
+<div align="center">
+<table align="center">
+<tr><td width="620">
+
 https://github.com/user-attachments/assets/e2c453c7-72d8-41a9-bbcd-b1eb7faa42c1
 
-<sub>Presenting Canopy at Korea Blockchain Week 2025 &nbsp;·&nbsp; 1 min</sub>
+</td></tr>
+</table>
+
+<sub>Presenting Canopy at <b>Korea Blockchain Week 2025</b> &nbsp;·&nbsp; 1 min</sub>
+
+</div>
 
 <details>
 <summary><b>Protocol architecture</b> &nbsp;·&nbsp; 18 deployed packages, 33 Move modules</summary>
