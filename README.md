@@ -49,6 +49,10 @@ In [May 2026 Movement acquired Canopy](https://www.binance.com/en/square/post/05
 
 <sub>↗ [DefiLlama](https://defillama.com/protocol/canopy)</sub>
 
+https://github.com/user-attachments/assets/e2c453c7-72d8-41a9-bbcd-b1eb7faa42c1
+
+<sub>Presenting Canopy at Korea Blockchain Week 2025 &nbsp;·&nbsp; 1 min</sub>
+
 <details>
 <summary><b>Protocol architecture</b> &nbsp;·&nbsp; 18 deployed packages, 33 Move modules</summary>
 
