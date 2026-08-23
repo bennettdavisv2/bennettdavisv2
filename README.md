@@ -132,7 +132,7 @@ Every module below links to its verified source on the Movement explorer.
   <img src="movement-logo.png" height="34" alt="Movement Labs"/>
 </a>
 
-**Movement Labs** &nbsp;·&nbsp; Founding team ·&nbsp;May 2023 - June 2024 ·&nbsp; Move-based Blockchain Network
+**Movement Labs** &nbsp;·&nbsp; Employee #4 &nbsp;·&nbsp; May 2023 - June 2024 &nbsp;·&nbsp; Move-based Blockchain Network
 
 Joined the engineering team at inception, taking a Move-based L2 from an idea to a funded network with a live ecosystem. Two years later that same network acquired the company I left to start.
 
