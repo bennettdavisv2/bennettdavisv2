@@ -19,7 +19,7 @@ Now going deep on engineering.
 
 ## About
 
-I founded Canopy while studying Computer Science at Vanderbilt, and spent 23 months building a vault layer on Movement Network — scaling it to $150M in peak assets under management across 3,800+ users.
+I founded Canopy while studying Computer Science at Vanderbilt, and spent 22 months building a vault layer on Movement Network — scaling it to $150M in peak assets under management across 3,800+ users.
 
 I'm looking to now join an engineering team.
 
@@ -34,7 +34,7 @@ I'm looking to now join an engineering team.
   </picture>
 </a>
 
-**Founder** &nbsp;·&nbsp; October 2024 - May 2026 &nbsp;·&nbsp; acquired by Movement Labs
+**Founder** &nbsp;·&nbsp; July 2024 - May 2026 &nbsp;·&nbsp; acquired by Movement Labs
 
 <p>
   <img src="https://img.shields.io/badge/Pre--seed-%241.2M-2da44e?style=flat-square&labelColor=3d444d" alt="$1.2M pre-seed"/>
@@ -132,7 +132,7 @@ Every module below links to its verified source on the Movement explorer.
   <img src="movement-logo.png" height="34" alt="Movement Labs"/>
 </a>
 
-**Movement Labs** &nbsp;·&nbsp; Founding team ·&nbsp;April 2023 - September 2024 ·&nbsp; Move-based Blockchain Network
+**Movement Labs** &nbsp;·&nbsp; Founding team ·&nbsp;May 2023 - June 2024 ·&nbsp; Move-based Blockchain Network
 
 Joined the engineering team at inception, taking a Move-based L2 from an idea to a funded network with a live ecosystem. Two years later that same network acquired the company I left to start.
 
