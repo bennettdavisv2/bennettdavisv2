@@ -4,7 +4,7 @@
 
 **Computer Science, Vanderbilt '26**
 
-Founded a DeFi protocol, scaled it to $150M peak assets under management (AUM), and sold it to Movement Labs.<br/>
+Founded Canopy, a DeFi protocol, scaled it to $150M assets under management, graduated Vanderbilt University CompSci, and got acquired.<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20roles-2da44e?style=flat-square&labelColor=3d444d" alt="Open to software engineering roles"/>
