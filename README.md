@@ -3,13 +3,13 @@
 <a href="https://app.canopyhub.xyz">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Canopy-dark.png"/>
-    <img src="Canopy.png" height="40" alt="Canopy"/>
+    <img src="Canopy.png" height="34" alt="Canopy"/>
   </picture>
 </a>
 
-**Founder** &nbsp;·&nbsp; July 2024 - May 2026 &nbsp;·&nbsp; acquired by Movement Labs
+**Founder** &nbsp;·&nbsp; July 2024 – May 2026 &nbsp;·&nbsp; acquired by Movement Labs
 
-Decentralized finance vaults that let users route capital into on-chain yield strategies via smart contracts [built in Move](https://www.businessinsider.com/facebook-move-programming-language-libra-blockchain-2019-6). 
+Decentralized finance vaults that let users route capital into on-chain yield strategies via smart contracts [built in Move](https://www.businessinsider.com/facebook-move-programming-language-libra-blockchain-2019-6).
 
 The [$1.2M fundraising](https://finance.yahoo.com/news/canopy-raises-1-2m-build-140000677.html) was led by Mechanism Capital and CitizenX, with Primitive, GSR, and Side Door Ventures.
 
@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/e2c453c7-72d8-41a9-bbcd-b1eb7faa42c1
 </div>
 
 <details>
-<summary><b>All code is open-source. Learn more by clicking here.</summary>
+<summary><b>All code is open-source. Learn more by clicking here.</b></summary>
 
 <br/>
 
@@ -95,10 +95,13 @@ Every module below links to its verified source on the Movement explorer.
 <br/>
 
 <a href="https://www.movementnetwork.xyz/">
-  <img src="movement-logo.png" height="34" alt="Movement Labs"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="movement-logo-dark.png"/>
+    <img src="movement-logo.png" height="36" alt="Movement Labs"/>
+  </picture>
 </a>
 
-**Movement Labs** &nbsp;·&nbsp; May 2023 - June 2024 &nbsp;·&nbsp; Move-based Blockchain Network
+**Movement Labs** &nbsp;·&nbsp; May 2023 – June 2024 &nbsp;·&nbsp; Move-based Blockchain Network
 
 Joined the engineering team at inception, taking a Move-based L2 from an idea to a funded network with a live ecosystem. Two years later that same network acquired the company I left to start.
 
@@ -109,7 +112,7 @@ Joined the engineering team at inception, taking a Move-based L2 from an idea to
 ## Contract &amp; Advisory
 
 <a href="https://www.amplifiliquidity.com/">
-  <img src="Amplifi.png" height="34" alt="Amplifi Liquidity"/>
+  <img src="Amplifi.png" height="36" alt="Amplifi Liquidity"/>
 </a>
 
 **Contract** &nbsp;·&nbsp; DeFi market-making and liquidity infrastructure
@@ -121,13 +124,13 @@ Contract work across four service lines: treasury activation for protocols sitti
 <a href="https://aegis.markets">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Aegis-dark.png"/>
-    <img src="Aegis.png" height="38" alt="Aegis Markets"/>
+    <img src="Aegis.png" height="31" alt="Aegis Markets"/>
   </picture>
 </a>
 
 **Contract** &nbsp;·&nbsp; Uniswap V4 hook protocol
 
-Sourced initial partnerships for AEGIS Engine, a hook architecture bringing margin to Uniswap. 
+Sourced initial partnerships for AEGIS Engine, a hook architecture bringing margin to Uniswap.
 
 <sub>↗ [Live pools](https://aegis.markets/pools) &nbsp;·&nbsp; [DefiLlama](https://defillama.com/protocol/aegis-markets)</sub>
 
@@ -137,7 +140,7 @@ Sourced initial partnerships for AEGIS Engine, a hook architecture bringing marg
 
 **[NASA × Vanderbilt](https://engineering.vanderbilt.edu/2024/04/16/vanderbilt-researchers-part-of-nasas-effort-to-protect-airspace-against-cyberattacks-improve-aircraft-operations/)** &nbsp;·&nbsp; University Leadership Initiative
 
-Part of a Vanderbilt team on NASA's $6M three-year award to protect urban airspace against cyberattacks across Advanced Air Mobility and UAS traffic management. 
+Part of a Vanderbilt team on NASA's $6M three-year award to protect urban airspace against cyberattacks across Advanced Air Mobility and UAS traffic management.
 
 My work: a proof-of-stake consensus mechanism on Hedera Hashgraph for approving drone flight plans among untrusted participants.
 
@@ -146,5 +149,3 @@ My work: a proof-of-stake consensus mechanism on Hedera Hashgraph for approving 
 ## Education
 
 **[Vanderbilt University](https://www.vanderbilt.edu/)** &nbsp;·&nbsp; B.S. Computer Science &nbsp;·&nbsp; 2022 – 2026
-
----
