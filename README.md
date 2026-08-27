@@ -7,7 +7,7 @@
   </picture>
 </a>
 
-**Founder** &nbsp;·&nbsp; acquired by Movement Labs
+**Founder** &nbsp;·&nbsp; July 2024 – May 2026 &nbsp;·&nbsp; acquired by Movement Labs
 
 Decentralized finance vaults that let users route capital into on-chain yield strategies via smart contracts [built in Move](https://www.businessinsider.com/facebook-move-programming-language-libra-blockchain-2019-6).
 
@@ -101,38 +101,11 @@ Every module below links to its verified source on the Movement explorer.
   </picture>
 </a>
 
-**Movement Labs** &nbsp;·&nbsp; Move-based Blockchain Network
+**Movement Labs** &nbsp;·&nbsp; May 2023 – June 2024 &nbsp;·&nbsp; Move-based Blockchain Network
 
 Joined the engineering team at inception, taking a Move-based L2 from an idea to a funded network with a live ecosystem. Two years later that same network acquired the company I left to start.
 
 <br/>
-
----
-
-## Contract &amp; Advisory
-
-<a href="https://www.amplifiliquidity.com/">
-  <img src="Amplifi.png" height="36" alt="Amplifi Liquidity"/>
-</a>
-
-**Contract** &nbsp;·&nbsp; DeFi market-making and liquidity infrastructure
-
-Contract work across four service lines: treasury activation for protocols sitting on idle reserves, DEX market making on v3/v4 venues, vault strategy across lending and structured products, and launch-day liquidity for token generation events.
-
-<br/>
-
-<a href="https://aegis.markets">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Aegis-dark.png"/>
-    <img src="Aegis.png" height="31" alt="Aegis Markets"/>
-  </picture>
-</a>
-
-**Contract** &nbsp;·&nbsp; Uniswap V4 hook protocol
-
-Sourced initial partnerships for AEGIS Engine, a hook architecture bringing margin to Uniswap.
-
-<sub>↗ [Live pools](https://aegis.markets/pools) &nbsp;·&nbsp; [DefiLlama](https://defillama.com/protocol/aegis-markets)</sub>
 
 ---
 
@@ -148,4 +121,4 @@ My work: a proof-of-stake consensus mechanism on Hedera Hashgraph for approving 
 
 ## Education
 
-**[Vanderbilt University](https://www.vanderbilt.edu/)** &nbsp;·&nbsp; B.S. Computer Science
+**[Vanderbilt University](https://www.vanderbilt.edu/)** &nbsp;·&nbsp; B.S. Computer Science &nbsp;·&nbsp; 2022 – 2026
