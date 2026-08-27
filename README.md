@@ -1,28 +1,4 @@
-<div align="center">
-
-# Bennett Davis
-
-**Computer Science, Vanderbilt '26**
-
-Founded Canopy, a DeFi protocol, scaled it to $150M assets under management, graduated Vanderbilt University CompSci, and got acquired.<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20roles-2da44e?style=flat-square&labelColor=3d444d" alt="Open to software engineering roles"/>
-  <img src="https://img.shields.io/badge/Based%20in-United%20States-6e7781?style=flat-square&labelColor=3d444d" alt="United States"/>
-  <a href="mailto:bennett0730@gmail.com"><img src="https://img.shields.io/badge/Email-bennett0730@gmail.com-6e7781?style=flat-square&labelColor=3d444d" alt="Email"/></a>
-</p>
-
-</div>
-
----
-
-## About
-
-I founded Canopy while studying Computer Science at Vanderbilt University. Spending 2 years building decentralized finance vaults in [Facebook's smart contract language, Move](https://www.businessinsider.com/facebook-move-programming-language-libra-blockchain-2019-6).
-
----
-
-## Track Record
+## Past Work
 
 <a href="https://app.canopyhub.xyz">
   <picture>
@@ -33,11 +9,11 @@ I founded Canopy while studying Computer Science at Vanderbilt University. Spend
 
 **Founder** &nbsp;·&nbsp; July 2024 - May 2026 &nbsp;·&nbsp; acquired by Movement Labs
 
-A vault layer on Movement Network that let users route capital into on-chain yield strategies. The [$1,2M fundraising](https://finance.yahoo.com/news/canopy-raises-1-2m-build-140000677.html) was led by Mechanism Capital and CitizenX, with Primitive, GSR, and Side Door Ventures.
+Decentralized finance vaults that let users route capital into on-chain yield strategies via smart contracts [built in Move](https://www.businessinsider.com/facebook-move-programming-language-libra-blockchain-2019-6). 
+
+The [$1.2M fundraising](https://finance.yahoo.com/news/canopy-raises-1-2m-build-140000677.html) was led by Mechanism Capital and CitizenX, with Primitive, GSR, and Side Door Ventures.
 
 In [May 2026 Movement acquired Canopy](https://www.binance.com/en/square/post/05-12-2026-movement-completes-acquisition-of-canopy-to-enhance-network-infrastructure-322388875851953), taking our product in-house to fold the vault layer into their core infrastructure.
-
-<sub>↗ [DefiLlama](https://defillama.com/protocol/canopy)</sub>
 
 <div align="center">
 <table align="center">
@@ -53,7 +29,7 @@ https://github.com/user-attachments/assets/e2c453c7-72d8-41a9-bbcd-b1eb7faa42c1
 </div>
 
 <details>
-<summary><b>Protocol architecture</b> &nbsp;·&nbsp; 18 deployed packages, 33 Move modules</summary>
+<summary><b>All code is open-source. Learn more by clicking here.</summary>
 
 <br/>
 
@@ -122,7 +98,7 @@ Every module below links to its verified source on the Movement explorer.
   <img src="movement-logo.png" height="34" alt="Movement Labs"/>
 </a>
 
-**Movement Labs** &nbsp;·&nbsp; Employee #4 &nbsp;·&nbsp; May 2023 - June 2024 &nbsp;·&nbsp; Move-based Blockchain Network
+**Movement Labs** &nbsp;·&nbsp; May 2023 - June 2024 &nbsp;·&nbsp; Move-based Blockchain Network
 
 Joined the engineering team at inception, taking a Move-based L2 from an idea to a funded network with a live ecosystem. Two years later that same network acquired the company I left to start.
 
