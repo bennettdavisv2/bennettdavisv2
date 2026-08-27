@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/e2c453c7-72d8-41a9-bbcd-b1eb7faa42c1
 </td></tr>
 </table>
 
-<sub>Presenting Canopy at <b>Korea Blockchain Week 2025</b> &nbsp;·&nbsp; 1 min</sub>
+<sub>Presenting Canopy at <b>[Korea Blockchain Week 2025](https://koreablockchainweek.com/)</b> &nbsp;·&nbsp; 1 min</sub>
 
 </div>
 
