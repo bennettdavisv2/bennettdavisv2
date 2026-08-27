@@ -4,8 +4,7 @@
 
 **Computer Science, Vanderbilt '26**
 
-Founded a DeFi protocol, scaled it to $150M peak AUM, and sold it to Movement Labs.<br/>
-Now going deep on engineering.
+Founded a DeFi protocol, scaled it to $150M peak assets under management (AUM), and sold it to Movement Labs.<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20roles-2da44e?style=flat-square&labelColor=3d444d" alt="Open to software engineering roles"/>
@@ -19,9 +18,7 @@ Now going deep on engineering.
 
 ## About
 
-I founded Canopy while studying Computer Science at Vanderbilt, and spent 22 months building a vault layer on Movement Network — scaling it to $150M in peak assets under management across 3,800+ users.
-
-I'm looking to now join an engineering team.
+I founded Canopy while studying Computer Science at Vanderbilt University. Spending 2 years building decentralized finance vaults in [Facebook's smart contract language, Move](https://www.businessinsider.com/facebook-move-programming-language-libra-blockchain-2019-6).
 
 ---
 
@@ -36,16 +33,9 @@ I'm looking to now join an engineering team.
 
 **Founder** &nbsp;·&nbsp; July 2024 - May 2026 &nbsp;·&nbsp; acquired by Movement Labs
 
-<p>
-  <img src="https://img.shields.io/badge/Pre--seed-%241.2M-2da44e?style=flat-square&labelColor=3d444d" alt="$1.2M pre-seed"/>
-  <img src="https://img.shields.io/badge/Peak%20AUM-%24150M-2da44e?style=flat-square&labelColor=3d444d" alt="$150M peak AUM"/>
-  <img src="https://img.shields.io/badge/Users-3%2C800%2B-2da44e?style=flat-square&labelColor=3d444d" alt="3,800+ users"/>
-  <img src="https://img.shields.io/badge/Exit-Acquired-2da44e?style=flat-square&labelColor=3d444d" alt="Acquired"/>
-</p>
+A vault layer on Movement Network that let users route capital into on-chain yield strategies. The [$1,2M fundraising](https://finance.yahoo.com/news/canopy-raises-1-2m-build-140000677.html) was led by Mechanism Capital and CitizenX, with Primitive, GSR, and Side Door Ventures.
 
-A vault layer on Movement Network that let users route capital into on-chain yield strategies. The [pre-seed](https://finance.yahoo.com/news/canopy-raises-1-2m-build-140000677.html) was led by Mechanism Capital and CitizenX, with Primitive, GSR, and Side Door Ventures.
-
-In [May 2026 Movement acquired Canopy](https://www.binance.com/en/square/post/05-12-2026-movement-completes-acquisition-of-canopy-to-enhance-network-infrastructure-322388875851953), taking our product in-house to fold the vault layer into core infrastructure.
+In [May 2026 Movement acquired Canopy](https://www.binance.com/en/square/post/05-12-2026-movement-completes-acquisition-of-canopy-to-enhance-network-infrastructure-322388875851953), taking our product in-house to fold the vault layer into their core infrastructure.
 
 <sub>↗ [DefiLlama](https://defillama.com/protocol/canopy)</sub>
 
