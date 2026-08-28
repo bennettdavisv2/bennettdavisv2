@@ -111,6 +111,10 @@ Joined the engineering team at inception, taking a Move-based L2 from an idea to
 
 ## Research
 
+<a href="https://www.nasa.gov/">
+  <img src="nasa-logo.png" height="34" alt="NASA"/>
+</a>
+
 **[NASA × Vanderbilt](https://engineering.vanderbilt.edu/2024/04/16/vanderbilt-researchers-part-of-nasas-effort-to-protect-airspace-against-cyberattacks-improve-aircraft-operations/)** &nbsp;·&nbsp; University Leadership Initiative
 
 Part of a Vanderbilt team on NASA's $6M three-year award to protect urban airspace against cyberattacks across Advanced Air Mobility and UAS traffic management.
@@ -120,5 +124,12 @@ My work: a proof-of-stake consensus mechanism on Hedera Hashgraph for approving 
 ---
 
 ## Education
+
+<a href="https://www.vanderbilt.edu/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="vanderbilt-logo-dark.png"/>
+    <img src="vanderbilt-logo.png" height="40" alt="Vanderbilt University"/>
+  </picture>
+</a>
 
 **[Vanderbilt University](https://www.vanderbilt.edu/)** &nbsp;·&nbsp; B.S. Computer Science &nbsp;·&nbsp; 2022 – 2026
