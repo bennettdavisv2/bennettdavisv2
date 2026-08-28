@@ -1,3 +1,16 @@
+## Education
+
+<a href="https://www.vanderbilt.edu/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="vanderbilt-logo-dark.png"/>
+    <img src="vanderbilt-logo.png" height="40" alt="Vanderbilt University"/>
+  </picture>
+</a>
+
+**[Vanderbilt University](https://www.vanderbilt.edu/)** &nbsp;·&nbsp; B.S. Computer Science &nbsp;·&nbsp; 2022 – 2026
+
+---
+
 ## Past Work
 
 <a href="https://app.canopyhub.xyz">
@@ -120,16 +133,3 @@ Joined the engineering team at inception, taking a Move-based L2 from an idea to
 Part of a Vanderbilt team on NASA's $6M three-year award to protect urban airspace against cyberattacks across Advanced Air Mobility and UAS traffic management.
 
 My work: a proof-of-stake consensus mechanism on Hedera Hashgraph for approving drone flight plans among untrusted participants.
-
----
-
-## Education
-
-<a href="https://www.vanderbilt.edu/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="vanderbilt-logo-dark.png"/>
-    <img src="vanderbilt-logo.png" height="40" alt="Vanderbilt University"/>
-  </picture>
-</a>
-
-**[Vanderbilt University](https://www.vanderbilt.edu/)** &nbsp;·&nbsp; B.S. Computer Science &nbsp;·&nbsp; 2022 – 2026
