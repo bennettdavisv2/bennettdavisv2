@@ -3,7 +3,7 @@
 <a href="https://app.canopyhub.xyz">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Canopy-dark.png"/>
-    <img src="Canopy.png" height="34" alt="Canopy"/>
+    <img src="Canopy.png" height="35" alt="Canopy"/>
   </picture>
 </a>
 
@@ -97,7 +97,7 @@ Every module below links to its verified source on the Movement explorer.
 <a href="https://www.movementnetwork.xyz/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="movement-logo-dark.png"/>
-    <img src="movement-logo.png" height="36" alt="Movement Labs"/>
+    <img src="movement-logo.png" height="29" alt="Movement Labs"/>
   </picture>
 </a>
 
