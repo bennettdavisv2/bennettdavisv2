@@ -112,7 +112,7 @@ Joined the engineering team at inception, taking a Move-based L2 from an idea to
 ## Research
 
 <a href="https://www.nasa.gov/">
-  <img src="nasa-logo.png" height="34" alt="NASA"/>
+  <img src="nasa-logo.png" height="48" alt="NASA"/>
 </a>
 
 **[NASA × Vanderbilt](https://engineering.vanderbilt.edu/2024/04/16/vanderbilt-researchers-part-of-nasas-effort-to-protect-airspace-against-cyberattacks-improve-aircraft-operations/)** &nbsp;·&nbsp; University Leadership Initiative
